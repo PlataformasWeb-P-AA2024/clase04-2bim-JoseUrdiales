@@ -65,13 +65,12 @@ label {
   width:95%;
 }
 
-.top_menu ul li
-{
+.top_menu ul li a{
   float:left;
   margin-right:10px;
   margin-bottom:5px;
   text: #FFF;
-
+  color: #55ff2b;
 }
 
 footer{
